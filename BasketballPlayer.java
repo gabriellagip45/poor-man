@@ -18,7 +18,7 @@ public class BasketballPlayer {
 	/**
 	 * The number of free throws made.
 	 */
-	private int freeThrowsMade = 0;
+	private int freeThrowsMade = 1;
 	/**
 	 * The number of 2 point shots attempted.
 	 */
@@ -26,7 +26,7 @@ public class BasketballPlayer {
 	/**
 	 * The number of 2 point shots made.
 	 */
-	private int twoPointersMade = 0;
+	private int twoPointersMade = 1;
 	/**
 	 * The number of 3 point shots attempted.
 	 */
